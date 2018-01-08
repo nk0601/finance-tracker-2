@@ -1,1 +1,1 @@
-This is the finance tracker app from the Complete Ruby on Rails Developer course
+This is the finance tracker app from the Complete Ruby on Rails Developer course based on updates made by instructor in Dec 2017.
